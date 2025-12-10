@@ -5,7 +5,7 @@ const portfolioItems = [
   {
     title: "Instalação Comercial",
     description: "Sistema multi-split para escritório",
-    image: "https://images.unsplash.com/photo-1631545806609-35d4ae440431?w=600&h=600&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Manutenção Preventiva",
@@ -15,7 +15,7 @@ const portfolioItems = [
   {
     title: "Instalação Residencial",
     description: "Split inverter 12.000 BTUs",
-    image: "https://images.unsplash.com/photo-1625438943409-8d2c84e11095?w=600&h=600&fit=crop&q=80",
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Câmara Frigorífica",
