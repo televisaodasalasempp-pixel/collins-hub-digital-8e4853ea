@@ -5,32 +5,32 @@ const portfolioItems = [
   {
     title: "Instalação Comercial",
     description: "Sistema multi-split para escritório",
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1631545806609-35d4ae440431?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Manutenção Preventiva",
     description: "Limpeza e higienização completa",
-    image: "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Instalação Residencial",
     description: "Split inverter 12.000 BTUs",
-    image: "https://images.unsplash.com/photo-1631545806609-35d4ae440431?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1625438943409-8d2c84e11095?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Câmara Frigorífica",
     description: "Instalação para supermercado",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1562259929-b4e1fd3aef09?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Projeto Comercial",
     description: "Climatização de restaurante",
-    image: "https://images.unsplash.com/photo-1504735217152-b768bcab5ebc?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=600&fit=crop&q=80",
   },
   {
     title: "Atendimento Emergencial",
     description: "Reparo 24h em clínica",
-    image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=400&fit=crop",
+    image: "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=600&h=600&fit=crop&q=80",
   },
 ];
 
